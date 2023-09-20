@@ -3,7 +3,7 @@ Carverse takes the phenomenal experience of purchasing a car on carmax.com to a 
 
 <img src="https://github.com/tgarg10/Carverse/assets/129296453/e35ac835-a697-48a1-a557-6d041b46689d" width = 80% height = 80%/>
 
-<imng src="https://github.com/tgarg10/Carverse/assets/129296453/55479295-5fbf-4f5d-990f-7015ed87d201" width = 80% height = 80%/>
+<img src="https://github.com/tgarg10/Carverse/assets/129296453/55479295-5fbf-4f5d-990f-7015ed87d201" width = 80% height = 80%/>
 
 Check it out here: https://youtu.be/gHA3E_z-D2w
 
